@@ -2,13 +2,13 @@ print("=======================================")
 print("Program Biodata Sederhana Dengan Python")
 print("=======================================")
 
-nama = "Muhammad Furqon Atthoriq"
-hobi = "Sepak Bola"
-alamat = "Karangjengkol RT03/05"
-kota = "Purwokerto"
+nama_kamu = "Muhammad Furqon Atthoriq"
+hobi_kamu = "Sepak Bola"
+alamat_kamu = "Karangjengkol RT03/05"
+kota_kamu = "Purwokerto"
 
-print("Nama Lengkap  :", nama)
-print("Alamat        :", alamat, "\n        Kota :", kota)
-print("Hobi          :", hobi)
+print("Nama Lengkap  :", nama_kamu)
+print("Alamat        :", alamat_kamu, "\n        Kota :", kota_kamu)
+print("Hobi          :", hobi_kamu)
 
 print("=======================================")
